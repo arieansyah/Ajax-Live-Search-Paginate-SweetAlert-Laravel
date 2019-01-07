@@ -11,3 +11,7 @@
     <li>php artisan db:seed</li>
     <li>php artisan serve</li>
 </p>
+
+<p>
+    Sebagai Alternatif dari datatable
+</p>
